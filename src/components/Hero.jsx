@@ -19,7 +19,7 @@ const Hero = () => {
           <li><span>UI/UX</span></li> */}
         </ul>
       </div>
-     </div>
+    </div>
     
 
   
