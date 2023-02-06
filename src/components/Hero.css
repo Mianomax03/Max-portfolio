@@ -1,0 +1,13 @@
+.main__container__hero{
+    background-color: var(--color-body);
+    
+}
+
+.name__info h4{
+    font-size:60px;
+   background:linear-gradient(to bottom,#fbc2eb,#abc1ee);
+   background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+   
+}
