@@ -15,7 +15,7 @@
 }
 /* //drk mode colors */
 [data-theme="light"]{
-  --color-body:#112240;
+  --color-body:#0C0C0C;
   --color-black:#FFFFFF;
 }
 
@@ -27,6 +27,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition:all 3s linear;
 }
 
 code {
